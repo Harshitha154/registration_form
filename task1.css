@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: rgb(213, 173, 230);
+}
+h2{
+    text-align: center;
+    margin-left: 30px;
+}
+form{
+    background:linear-gradient(white, rgb(230, 143, 223));
+    height:320px;
+    width:300px;
+    margin-left: 400px;
+    border-radius: 5px;
+    box-shadow: 10px 10px  5px purple;
+    padding:30px 20px;
+    
+}
+form input{
+    margin-bottom: 25px;
+    
+}
+.submit{
+    margin:50px 130px auto;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 3px;
+    padding:5px 10px;
+    box-shadow: 3px 3px 4px rgb(128, 128, 128);
+}
